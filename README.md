@@ -4,7 +4,7 @@
 
 [![X](https://img.shields.io/badge/X-@leocagli-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leocagli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo_Cagliero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leocagli)
-[![Email](https://img.shields.io/badge/Email-tuemail%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tuemail%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leocagli@gmail.com)
 
 ---
 
