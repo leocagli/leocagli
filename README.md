@@ -48,4 +48,4 @@
 
 - X: [@leocagli](https://x.com/leocagli)
 - LinkedIn: [Leo Cagliero](https://linkedin.com/in/leocagli)
-- Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
+- Email: [tuemail@gmail.com](mailto:leocagli@gmail.com)
